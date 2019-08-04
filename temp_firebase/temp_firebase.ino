@@ -5,8 +5,8 @@
 
 #define FIREBASE_HOST "urbanbee-8b6d6.firebaseio.com"
 #define FIREBASE_AUTH "nBOkkUD9aqlJ4flYdSOy1Nnm5Xoy81A4IlJdMR2K"
-#define WIFI_SSID "EIA2019-BACKUP"
-#define WIFI_PASSWORD "Portugal2019"
+#define WIFI_SSID "ATT6ypc8Pk"
+#define WIFI_PASSWORD "4sqx4xka9682"
 
 //Define Firebase data object
 FirebaseData firebaseData;
